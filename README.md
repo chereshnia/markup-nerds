@@ -1,2 +1,2 @@
 
-![Markup `Nerds`](github_pages/nerds_screen_full_01.jpeg)
+![Markup `Nerds`](gp/main_01.jpeg)
